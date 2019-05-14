@@ -12,5 +12,5 @@
 
 
 ##### 同步、异步编程
-
+- [select_http.py](./select_http.py) 实现了简单的io多路复用
 
